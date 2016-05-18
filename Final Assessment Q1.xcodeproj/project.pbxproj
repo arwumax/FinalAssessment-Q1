@@ -22,6 +22,7 @@
 		1AE196CE1CEC1209007D676C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1AE196D11CEC1209007D676C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1AE196D31CEC1209007D676C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AE196D91CEC121F007D676C /* Q1 answer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Q1 answer.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				1AE196CE1CEC1209007D676C /* Assets.xcassets */,
 				1AE196D01CEC1209007D676C /* LaunchScreen.storyboard */,
 				1AE196D31CEC1209007D676C /* Info.plist */,
+				1AE196D91CEC121F007D676C /* Q1 answer.playground */,
 			);
 			path = "Final Assessment Q1";
 			sourceTree = "<group>";
